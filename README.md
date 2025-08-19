@@ -17,12 +17,12 @@ Breve descripción del proyecto:
 
 ## Integrantes
 
-| Nombre y Apellido     | Matrícula | Usuario de GitHub|
-|-----------------------|:--------:|-------------------|
-| Bartomioli Alejandro  | 153041   | @abartomioli      |
-| Nombre Estudiante 2   | XXXXX    | @username         |
-| Nombre Estudiante 3   | XXXXX    | @username         |
-| Nombre Estudiante 4   | XXXXX    | @username         |
+| Nombre y Apellido          | Matrícula | Usuario de GitHub|
+|----------------------------|:--------: |-------------------|
+| Bartomioli Alejandro       | 153041    | @abartomioli      |
+| Franco Ezequiel Alegranza  | XXXXX     | @username         |
+| Elio Cesar Nemer Pelayo    | XXXXX     | @username         |
+| Santiago Medel Marquez     | XXXXX     | @username         |
 
 ---
 
