@@ -17,7 +17,7 @@ Breve descripción del proyecto:
 
 ## Integrantes
 
-| Nombre y Apellido     | Matrícula | Usuario de GitHub |
+| Nombre y Apellido     | Matrícula | Usuario de GitHub|
 |-----------------------|:--------:|-------------------|
 | Bartomioli Alejandro  | 153041   | @abartomioli      |
 | Nombre Estudiante 2   | XXXXX    | @username         |
