@@ -22,7 +22,7 @@ Breve descripción del proyecto:
 | Bartomioli Alejandro       | 153041    | @abartomioli      |
 | Franco Ezequiel Alegranza  | XXXXX     | @username         |
 | Elio Cesar Nemer Pelayo    | XXXXX     | @username         |
-| Santiago Medel Marquez     | XXXXX     | @username         |
+| Santiago Medel Marquez     | 154076   | @santimarM       |
 
 ---
 
